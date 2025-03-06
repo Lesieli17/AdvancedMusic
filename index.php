@@ -63,7 +63,7 @@
         </ul>
     </div>
     <footer>
-        <p class="centre">&copy; 2019 Lesieli.</p>
+        <p class="centre">&copy; 2025 Lesieli.</p>
     </footer>
 </body>
 </html>
