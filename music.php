@@ -75,7 +75,7 @@
             ?>
     </div>
     <footer>
-        <p class="centre">&copy; 2025 LearnCoach Test.</p>
+        <p class="centre">&copy; 2025 Improvements.</p>
     </footer>
 </body>
 </html>
