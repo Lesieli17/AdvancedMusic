@@ -63,6 +63,8 @@
         </ul>
     </div>
     <footer>
+        <!--have changed the footer to the new year and my name -->
+
         <p class="centre">&copy; 2025 Lesieli.</p>
     </footer>
 </body>

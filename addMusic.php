@@ -78,7 +78,9 @@
         </form>
     </div>
     <footer>
-        <p class="centre">&copy; 2025 LearnCoach.</p>
+        <!--have changed the footer to the new year and my name -->
+
+        <p class="centre">&copy; 2025 Lesieli.</p>
     </footer>
 </body>
 </html>
