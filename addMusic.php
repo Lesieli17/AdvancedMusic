@@ -35,8 +35,8 @@
                 <label>Rating</label>
                 
                 <fieldset class="rating" role="radiogroup" id="songRating">
-                    <input value="1" id="star1" type="radio" name="rating" title="1 Star" aria-label="1 Star" >
-                    <label for="star1" title="1 Star" aria-hidden="true"><i class="fas fa-star"></i></label>
+
+                <label for="star1" title="1 Star" aria-hidden="true"><i class="fas fa-star"></i></label>
                     <input value="2" id="star2" type="radio" name="rating"  title="2 Stars" aria-label="2 Stars">
                     <label for="star2" title="2 Stars" aria-hidden="true"><i class="fas fa-star"></i></label>
                     <input value="3" id="star3" type="radio" name="rating" title="3 Stars" aria-label="3 Stars" checked>
