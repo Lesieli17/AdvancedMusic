@@ -13,55 +13,8 @@ h1, h2 {
 img {
     max-width: 75vw;
 }
-header {
-    display: flex;
-    align-items: center;
-    background-color: #8CE2D0;
-}
-header img{
-    max-width: 100%;
-}
-header figure{
-    max-width: 20%;
-    margin: 1em;
-    margin-left: 2em;
-}
-header h1 { 
-    font-family: 'Shadows Into Light', cursive;
-    font-size: 250%;
-    font-weight: lighter;
-    color: inherit;
-}
 
-nav {
-    display: flex;
-    background-color: #280071;
-    border-top: solid black thin;
-    border-bottom: solid black thin;
-}
-nav p{
-    flex: 1 1 100px;
-    text-align: center;
 
-}
-nav a { 
-    text-decoration: none;
-    color: #fff;
-    font-weight: bold;
-}
-nav a:hover { 
-    text-decoration: none;
-    color: #e91e63;
-    font-weight: bold;
-}
-nav label{
-    display: none;
-}
-footer {
-    background-color: #8CE2D0;
-    border-top: solid black thin;
-    padding: 0.5em;
-}
 
 /* ID Rules */
 #menuItems {
